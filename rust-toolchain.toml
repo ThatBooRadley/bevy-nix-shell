@@ -1,0 +1,4 @@
+[toolchain]
+channel = "stable"
+components = ["rustc-dev", "llvm-tools-preview"]
+profile = "default"
