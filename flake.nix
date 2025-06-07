@@ -35,6 +35,7 @@
           pkgs.vulkan-loader
           pkgs.libxkbcommon
           pkgs.mold
+          pkgs.gcc
         ];
 
         #make sure to add specific target in .cargo/config.toml
